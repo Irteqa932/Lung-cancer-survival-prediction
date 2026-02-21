@@ -91,6 +91,38 @@ These improvements demonstrate the ability to debug, optimize, and enhance machi
 
 ---
 
+##  Project Structure
+
+```
+Lung-cancer-survival-prediction/
+│
+├── Lung-cancer-survival-prediction.ipynb
+├── README.md
+└── requirements.txt
+```
+
+---
+
+##  How to Run the Project
+
+1️. Clone the repository:
+
+```
+git clone https://github.com/your-username/lung-cancer-survival-prediction.git
+```
+
+2️. Install dependencies:
+
+```
+pip install pandas numpy matplotlib seaborn scikit-learn xgboost imbalanced-learn jupyter
+```
+
+3️. Open the notebook in Google Colab or Jupyter Notebook.
+
+4️. Run all cells sequentially.
+
+---
+
 ## Future Scope
 
 - Integration of genomic and imaging data
@@ -105,9 +137,11 @@ These improvements demonstrate the ability to debug, optimize, and enhance machi
 This project demonstrates the feasibility of applying machine learning techniques to predict lung cancer survival outcomes using large-scale clinical data. Feature engineering, imbalance handling, and advanced models improved prediction capability, highlighting both opportunities and challenges in healthcare ML applications.
 
 ---
+## Project Resources
+- Google Colab Notebook: [Open Notebook](https://colab.research.google.com/drive/1T98SrcTvDmtJQOlQVGLQzxf68yjlwDjG?usp=sharing)
 
 ## Author
 
-[Irtika]
+Irtika
 
 ---
